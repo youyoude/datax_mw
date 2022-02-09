@@ -1,0 +1,20 @@
+{
+    "name": "rocketmqwriter",
+    "parameter": {
+        "topic": "waterdrop_test",
+        "nameserver": "bdp11.qa.sa.cn:9876",
+        "batchSize":1000,
+        "column": [
+            {
+                "index": 0,
+                "keyName": "a"
+            },{
+                "index": 1,
+                "keyName": "b"
+            },{
+                "index": 2,
+                "keyName": "c"
+            }
+        ]
+    }
+}

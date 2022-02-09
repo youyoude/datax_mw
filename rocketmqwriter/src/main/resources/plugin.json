@@ -1,0 +1,6 @@
+{
+    "name": "rocketmqwriter",
+    "class": "cn.huohua.datax.plugin.writer.rocketmqwriter.RocketMqWriter",
+    "description": "useScene: test. mechanism: use datax framework to transport data to txt file. warn: The more you know about the data, the less problems you encounter.",
+    "developer": "huohua"
+}
